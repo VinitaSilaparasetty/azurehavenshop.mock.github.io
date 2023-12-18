@@ -1,0 +1,6 @@
+// previous code
+"scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+  "deploy": "gh-pages -d dist" // NEW
+},
+// more code
